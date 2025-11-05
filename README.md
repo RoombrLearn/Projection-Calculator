@@ -89,7 +89,7 @@
             <div id="heightVal" class="result-value">—</div>
           </div>
           <div class="result-card">
-            <div class="result-label">Projection Distance</div>
+            <div class="result-label">Projection Distance ( Lens to Wall) </div>
             <div id="distanceVal" class="result-value">—</div>
           </div>
         </div>
